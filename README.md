@@ -1,4 +1,4 @@
-# Project Name
+# Boom Bikes Demand Prediction
 > This repository contains the Linear Regression Model Building assigment for Boom bike Sharing to understand
 how the company can find various factors which affect the bike business.
 
